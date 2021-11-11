@@ -8,5 +8,6 @@ AQI value ranges from 0 to 500. The higher the AQI value, the greater the level 
 For example, an AQI value of 50 or below represents good air quality, while an AQI value over 300 represents hazardous air quality.
 
 
+![image](https://user-images.githubusercontent.com/70753657/141264726-fd9585c7-ccf0-4b9b-9bbd-2887a05b5e74.png)
 
 
